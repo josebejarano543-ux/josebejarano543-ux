@@ -40,6 +40,14 @@ I enjoy learning new technologies, solving problems through programming, and con
 
 ---
 
+## 📊 GitHub Statistics
+
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josebejarano543-ux&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josebejarano543-ux&layout=compact)
+
+---
+
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/jose-bejarano-862887217
