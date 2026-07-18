@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm José Bejarano
 
-<!--
-**josebejarano543-ux/josebejarano543-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Development student at Brigham Young University–Idaho with a passion for building software and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems through programming, and continuously improving my technical skills. I am currently building my portfolio through academic and personal projects while expanding my knowledge of software development.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Java
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- SQL (Basic)
+- Visual Studio Code
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Web Development
+- Software Engineering Best Practices
+
+---
+
+## 🎯 Goals
+
+- Build real-world software projects
+- Continue improving my programming skills
+- Contribute to open-source projects
+- Obtain a Software Development internship
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/jose-bejarano-862887217
+
+Thanks for visiting my profile! 🚀
